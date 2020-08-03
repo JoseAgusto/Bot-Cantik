@@ -1,6 +1,8 @@
-(https://img.shields.io/github/issues/diosamuel/Virdina-Brainly?style=flat-square)[https://img.shields.io/github/issues/diosamuel/Virdina-Brainly?style=flat-square]
 # Virdina-Brainly👩‍💻📚
 Whatsapp Bot brainly search
+![](https://img.shields.io/github/issues/diosamuel/Virdina-Brainly)
+![](https://img.shields.io/github/stars/diosamuel/Virdina-Brainly)
+![](https://img.shields.io/github/forks/diosamuel/Virdina-Brainly)
 
 ## Installation 
 `git clone https://github.com/diosamuel/Virdina-Brainly.git`
