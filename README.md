@@ -1,8 +1,7 @@
-# Virdina-Brainly
+# Virdina-Brainly👩‍💻📚
 Whatsapp Bot brainly search
 
-library : [https://github.com/pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
-# Installation 
+## Installation 
 `git clone https://github.com/diosamuel/Virdina-Brainly.git`
 
 `npm install`
@@ -11,4 +10,4 @@ library : [https://github.com/pedroslopez/whatsapp-web.js](https://github.com/pe
 
 `node index`
 
-and then qrcode will appear on your terminal
+and then qrcode will appear on your terminal, scan it!
