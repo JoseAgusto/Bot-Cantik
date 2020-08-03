@@ -1,3 +1,4 @@
+(https://img.shields.io/github/issues/diosamuel/Virdina-Brainly?style=flat-square)[https://img.shields.io/github/issues/diosamuel/Virdina-Brainly?style=flat-square]
 # Virdina-Brainly👩‍💻📚
 Whatsapp Bot brainly search
 
@@ -19,19 +20,15 @@ and then qrcode will appear on your terminal, scan it!
 
 1. Brainly
   
-  `/brainly <question> -<amount>`
-  
-  example
-  
-  `/brainly pidato bahasa inggris simpel -10`
+  * `/brainly <question> -<amount>`
+  * example
+  * `/brainly pidato bahasa inggris simpel -10`
 
 2. Image downloader
   
-  `/img <link>`
-  
-  example
-  
-  `/img https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png`
+  * `/img <link>`
+  * example
+  * `/img https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png`
 
 ----
   
