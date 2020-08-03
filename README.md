@@ -10,7 +10,7 @@ Whatsapp Bot brainly search
 
 `node index`
 
-and then qrcode will appear on your terminal, scan it!at d
+and then qrcode will appear on your terminal, scan it!
 
 # Menu
 `/help`
@@ -32,3 +32,7 @@ and then qrcode will appear on your terminal, scan it!at d
   example
   
   `/img https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png`
+
+----
+  
+**Made with ❤️ by Virdio Samuel**
