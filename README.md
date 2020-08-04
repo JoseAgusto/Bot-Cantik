@@ -1,5 +1,5 @@
-# Virdina-Brainly👩‍💻📚
-## Whatsapp Bot brainly search
+# Whatsapp-Brainly-Bot👩‍💻📚
+## Bot whatsapp untuk mendapatkan jawaban dari brainly
 
 ![](https://img.shields.io/github/issues/diosamuel/Virdina-Brainly)
 ![](https://img.shields.io/github/stars/diosamuel/Virdina-Brainly)
