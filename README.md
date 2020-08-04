@@ -18,6 +18,7 @@ and then qrcode will appear on your terminal, scan it!
 
 # Menu
 `/help`
+![](./menu.jpeg)
 
 # Feature
 
