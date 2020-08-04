@@ -17,7 +17,9 @@
 and then qrcode will appear on your terminal, scan it!
 
 # Menu
+
 `/help`
+
 ![](./menu.jpeg)
 
 # Feature
@@ -28,11 +30,15 @@ and then qrcode will appear on your terminal, scan it!
   * example
   * `/brainly pidato bahasa inggris simpel -10`
 
+![](./feature1.jpeg)
+
 2. Image downloader
   
   * `/img <link>`
   * example
   * `/img https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png`
+
+![](./feature2.jpeg)
 
 ----
   
